@@ -1,1 +1,48 @@
+/**
+ * @name CorpsePartyidk
+ * @author DevilBro
+ * @version 1.0.5
+ * @description Allows you to use a background image without greatly altering the basic look of Discord.
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground
+ * @authorId 278543574059057154
+ * @BDEditor BasicBackground
+*/
 
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+
+:root {
+  --background: url('https://i.imgur.com/NURjAWx.jpg');
+  --backgroundsize: 150%;
+  --backgroundposition: center;
+  --backgroundblur: 2px;
+  --popout: url('https://i.imgur.com/0cenu3d.jpg');
+  --popoutsize: auto;
+  --backgroundposition: center;
+  --popoutblur: 1px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 211,22,79;
+  --backdrop: rgba(0,0,0,0.85);
+  --textshadow: transparent;
+  --transparencyalpha: 0.2;
+  --messagetransparency: 0.36;
+  --guildchanneltransparency: 0.5;
+  --chatinputtransparency: 1;
+  --memberlisttransparency: 0.3;
+  --font: Gloria Hallelujah;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 200,200,200;
+  --textdark: 160,160,160;
+  --textdarker: 185,178,187;
+  --textdarkest: 255,0,0;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
+
+/* Any custom CSS below here */

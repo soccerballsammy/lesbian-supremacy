@@ -1,5 +1,5 @@
 /**
- * @name OMOTHEM2
+ * @name omothem2
  * @author Gibbu#1211
  * @version 1.0.0
  * @description A soft and comfy feel for Discord.
@@ -21,9 +21,9 @@
   --accent: 107,107,107; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 2.5; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
   --font: OMORI_GAME; /* Custom font | Default: 'Inter' */
-  --channels-width: 300px; /* Width of the channels list. | Default: 300px */
-  --guilds-width: 105px; /* Width of the server list. | Default: 105px */
-  --members-width: 280px; /* Width of the members list. | Default: 280px */
+  --channels-width: 200px; /* Width of the channels list. | Default: 300px */
+  --guilds-width: 69px; /* Width of the server list. | Default: 105px */
+  --members-width: 250px; /* Width of the members list. | Default: 280px */
   --server-size: 50px; /* Size of the servers inside the server list. | Default: 50px */
   --chat-avatar-size: 32px; /* Size of the chat avatars. | Default: 32px */
   --rs-small-spacing: 1px; /* Gap between avatar and status for members list/dms | MUST end in px */
